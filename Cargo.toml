@@ -4,6 +4,8 @@ authors = ["Brandon McMillan"]
 repository = "https://www.github.com/bcmcmill/parceltongue"
 version = "0.0.1"
 edition = "2021"
+license = "BSD-3-Clause"
+description = "AWS S3 client utilities and abstractions."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
